@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\bin\Debug\14KlasaProces.exe.config
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\bin\Debug\14KlasaProces.exe
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\bin\Debug\14KlasaProces.pdb
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\obj\Debug\_14KlasaProces.Form1.resources
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\obj\Debug\_14KlasaProces.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.exe
+C:\Users\Ucenik\source\repos\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.pdb
